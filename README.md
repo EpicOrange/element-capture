@@ -1,3 +1,5 @@
+__Note__ This was an old project, it was used to retrieve selected elements for sites using JS-generated DOM. If you're looking to just grab selectors for sites serving static HTML, I'd recommend curl + [pup](https://github.com/ericchiang/pup)
+
 # element-capture
 Command line utility. Given URL and jQuery selector, return element innerHTML. Uses CasperJS.
 
